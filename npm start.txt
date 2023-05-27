@@ -1,0 +1,7 @@
+abrir esta pasta no .vscode  react-premium-motors-website-v1
+
+-C:\xampp\htdocs\react-premium-motors-website-v1
+
+npm start
+
+yes
